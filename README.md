@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+My name is Karoline, and I'm a Computer Science student at UFRRJ interested in Software Engineering.
+
+- 🔭 I’m currently working on learning the fundamentals of development and computer science.
+- 🌱 I’m currently exploring: **Git/GitHub, Algorithms**.
+- 📁 Check out some of my repositories to see what I’ve been working on — from university assignments to personal experiments. 
 <!--
 **karolcouto/karolcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on learning the basics
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
